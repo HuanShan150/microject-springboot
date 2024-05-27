@@ -72,6 +72,8 @@ A estrutura do projeto segue a arquitetura HEXAGONAL (Ports and Adapters), divid
 
   Obs: Se não desejar usar devcontainer é pode-se rodar apenas com Docker e Docker Compose.
 
+  Obs2: Necessario que o consumidor utilizer a localhost:5173, caso deseje usar outra porta adicionar no WebConfig.java
+
   Endpoints da API
   Clientes:
   
