@@ -60,6 +60,9 @@ A estrutura do projeto segue a arquitetura HEXAGONAL (Ports and Adapters), divid
   No vscode após ter a extensão do devcontainers use o atalho:
 
   CTRL + SHIFT + P
+
+  ![image](https://github.com/HuanShan150/microject/assets/30788893/960af88c-c313-4938-be31-11377e702626)
+
   
   Selecione a opção Devcontainers: Rebuild and Reopen in Container 
 
