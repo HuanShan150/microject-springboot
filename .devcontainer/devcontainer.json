@@ -1,0 +1,32 @@
+{
+	"name": "microject-api",
+	"dockerComposeFile": "../compose.yaml",
+	"service": "microject-api",
+	"workspaceFolder": "/home/app",
+	"shutdownAction": "stopCompose",
+	"runServices": ["microject-api", "postgres"],
+	"customizations": {
+	  "vscode": {
+		"extensions": [
+		  "mikestead.dotenv",
+		  "redhat.vscode-redhat-account",
+		  "vscjava.vscode-java-pack",
+		  "vscjava.vscode-java-debug",
+		  "vscjava.vscode-gradle",
+		  "VisualStudioExptTeam.vscodeintellicode",
+		  "redhat.java",
+		  "vscjava.vscode-java-dependency",
+		  "redhat.vscode-commons",
+		  "vscjava.vscode-java-test",
+		  "redhat.vscode-xml",
+		  "sohibe.java-generate-setters-getters",
+		  "VisualStudioExptTeam.vscodeintellicode-completions",
+		  "ms-azuretools.vscode-docker",
+		  "pivotal.vscode-spring-boot",
+		  "pivotal.vscode-spring-initializr",
+		  "pivotal.vscode-spring-cloud-dataflow" 
+		]
+	  }
+	}
+  }
+  
