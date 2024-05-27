@@ -1,4 +1,4 @@
-# Microject
+# Microject (Teste técnico AGCapital)
 
 Este é um projeto Spring Boot utilizando arquitetura hexagonal, Docker. O projeto é uma aplicação de gerenciamento de projetos, clientes e atividades.
 
